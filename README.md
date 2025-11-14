@@ -1,4 +1,4 @@
-# KAN_Comparison.ipynb
+# Rouleax Morphology Classification
 
 This repository entry contains the Jupyter notebook `KAN_Comparison.ipynb`, which analyzes and compares methods for classifying Rouleaux (rouleax) red blood cell morphology. The notebook reads and processes images from the Rouleax Red blood cells dataset, runs comparisons or experiments, and produces visualizations and evaluation outputs.
 
